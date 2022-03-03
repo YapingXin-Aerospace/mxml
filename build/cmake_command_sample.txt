@@ -1,0 +1,4 @@
+﻿# For example, for Visual Studio 17 (2022), X64 Debug version:
+
+cmake -G "Visual Studio 17 2022" -A X64 -D CMAKE_BUILD_TYPE=Debug ..
+cmake --build . --config Debug
